@@ -4,7 +4,7 @@
 
  ✨ каждый день учусь новому в фронтэнде
 
-Skills:  JS / HTML / CSS
+Скилы:  JS / HTML / CSS
 
 
 
@@ -13,6 +13,8 @@ Skills:  JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anastasiasikidina&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/anastasiasikidina)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiasikidina)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
